@@ -14,14 +14,18 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4C8923A1-1DA6-49D5-A47F-4A9EE47AD2FC/87/ab85291f/Button.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/3CEE83F2-04AC-40EF-80C1-7C36C8FBE59A/169/UIElement.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/4C8923A1-1DA6-49D5-A47F-4A9EE47AD2FC/5D/Button.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/4C8923A1-1DA6-49D5-A47F-4A9EE47AD2FC/361/UserControl.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/4C8923A1-1DA6-49D5-A47F-4A9EE47AD2FC/4AE/Grid.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/976E50AD-135D-4EFF-A170-3C558B3AB8AC/19/995fc4cb/0200001Epdb.il" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/4C8923A1-1DA6-49D5-A47F-4A9EE47AD2FC/67/3d0feffb/02000720pdb.il" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/976E50AD-135D-4EFF-A170-3C558B3AB8AC/6/ConsoleKeyInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/4C8923A1-1DA6-49D5-A47F-4A9EE47AD2FC/16D/Border.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Outbreaking_game/Width.cs" />
-      <option value="$PROJECT_DIR$/Outbreaking_game/MainWindow.xaml.cs" />
       <option value="$PROJECT_DIR$/Outbreaking_game/MainWindow.xaml" />
+      <option value="$PROJECT_DIR$/Outbreaking_game/MainWindow.xaml.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1pIgsDUuvNgbiFV9iLonGzG3PfG" />

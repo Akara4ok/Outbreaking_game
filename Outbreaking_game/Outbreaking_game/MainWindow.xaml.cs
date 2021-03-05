@@ -21,14 +21,5 @@ namespace Outbreaking_game
         {
             InitializeComponent();
         }
-        
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            string text = TextBox1.Text;
-            if (text != "")
-            {
-                MessageBox.Show(text);
-            }
-        }
     }
 }
