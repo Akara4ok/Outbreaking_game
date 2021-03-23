@@ -8,7 +8,7 @@
         Title="Outbreaking_game" Height="800" Width="1000" Background="Gray">
     <Grid>
         <Border
-            BorderThickness="5"
+            BorderThickness="10"
             BorderBrush="Black"
             CornerRadius="10"
             Background="Chartreuse"
@@ -18,9 +18,9 @@
             Height="300" >
             <Canvas Background="Chartreuse" >  
                 <Rectangle  
-                Canvas.Left="30" Canvas.Top="20"  
-                Height="30" Width="20"  
-                Stroke="Black" StrokeThickness="10" Fill="Black" />  
+                    Canvas.Left="30" Canvas.Top="20"  
+                    Height="30" Width="20"  
+                    Stroke="Black" StrokeThickness="10" Fill="Black" />  
             </Canvas>
         </Border>
     </Grid>
